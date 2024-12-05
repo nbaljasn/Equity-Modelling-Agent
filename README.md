@@ -1,2 +1,2 @@
-# Equity-Modelling-Agent
+# Equity Modelling Agent
 Produce standardized equity models in excel
