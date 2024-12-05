@@ -1,2 +1,2 @@
 # Equity Modelling Agent
-Python code to write standardized equity models in excel
+Python script that writes standardized equity models in excel
