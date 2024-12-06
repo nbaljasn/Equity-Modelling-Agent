@@ -7,7 +7,7 @@
 
 
 
->The Equity Modelling Agent is a data platform designed to streamline and enhance the process of stock selection. I aggregate diverse data sources like company fundamentals, macroeconomic indicators, and opinion data to create a comprehensive view of current and potential equity performance. The platform automatically produces standardized equity analysis reports in Excel format, simplifying the analyst's workflow. These reports contain key metrics, valuation insights, economic context, and sentiment analysis—delivered in a structured, easy-to-use format that enhances decision-making. 
+>The Equity Modelling Agent is a data platform designed to streamline and enhance the process of stock selection. I aggregate diverse data sources like company fundamentals, macroeconomic indicators, and opinion data to create a comprehensive view of current and potential equity performance. The platform automatically produces standardized equity analysis reports in Excel format, simplifying the analyst's workflow. In these reports you will find key metrics, valuation insights, economic context, and sentiment analysis delivered in a structured, easy-to-use format for enhanced decision-making. 
 
 I attempt to make the Equity Modelling Agent into a powerful, yet efficient tool to generate insightful equity research without the need for extensive manual data collection and processing.
 
