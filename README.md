@@ -1,6 +1,6 @@
 # Equity Modelling Agent
 >[!CAUTION]
->The information provided by the Equity Modelling Agent is for **informational purposes only** and **does NOT constitute investment advice.** Users should conduct their own research or consult with a financial advisor before making any investment decisions.
+>The information provided by the Equity Modelling Agent is **for informational purposes only** and **does NOT constitute investment advice.** Users should conduct their own research or consult with a financial advisor before making any investment decisions.
 
 
 
